@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny" viewBox ="0 0 835.000000 399.000000">
+<title>pyqtgraph SVG export</title>
+<desc>Generated with Qt and pyqtgraph</desc>
+<style>
+    image {
+        image-rendering: crisp-edges;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: pixelated;
+    }
+</style>
+<rect width="100%" height="100%" style="fill:rgba(0, 0, 0, 0.000000)" />
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ViewBox_1">
+    <g fill="none" stroke="none" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+        <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0.0,0.0 L835.0,0.0 L835.0,399.0 L0.0,399.0 L0.0,0.0 "/>
+    </g>
+    <clipPath id="ViewBox_1_clip">
+        <path vector-effect="none" fill-rule="evenodd" d="M0.0,0.0 L835.0,0.0 L835.0,399.0 L0.0,399.0 L0.0,0.0 " stroke-width="1.0"/>
+    </clipPath>
+    <g clip-path="url(#ViewBox_1_clip)">
+        <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ChildGroup_1">
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ImageItem_1">
+                <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(4.12618,0,0,4.12618,646.049,25.2004)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                    <image x="0" y="0" width="23" height="84" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_1">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsTextItem_1">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#c8c8c8" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,646.049,25.2004)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                            <text fill="#c8c8c8" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="11" font-weight="400" font-style="normal">305.6 s</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="LineROI_1">
+                <g fill="none" stroke="#00ff00" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2.21088,336.962,-50.3276,0.33021,719.822,28.7665)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="1" height="1"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="Handle_1">
+                    <g fill="none" stroke="#96ffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                        <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M694.6908051586169,33.9314720793 L692.1864659820731,33.2780452621527 L690.3443600047527,31.459954565733 L689.6581279207,28.964405158616955 L690.3115547378474,26.460065982073 L692.129645434267,24.6179600047527 L694.6251948413831,23.9317279207 L697.129534017927,24.585154737847297 L698.9716399952473,26.403245434267 L699.6578720793,28.898794841383044 L699.0044452621527,31.403134017926998 L697.186354565733,33.2452399952473 L694.6908051586169,33.9314720793 "/>
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="Handle_2">
+                    <g fill="none" stroke="#96ffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                        <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M696.9018051586171,370.8938720793 L694.3974659820731,370.2404452621527 L692.5553600047527,368.42235456573303 L691.8691279207001,365.92680515861707 L692.5225547378474,363.422465982073 L694.340645434267,361.5803600047527 L696.8361948413831,360.8941279207 L699.340534017927,361.5475547378473 L701.1826399952473,363.365645434267 L701.8688720793,365.86119484138305 L701.2154452621527,368.365534017927 L699.397354565733,370.2076399952473 L696.9018051586171,370.8938720793 "/>
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="Handle_3">
+                    <g fill="none" stroke="#96ffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                        <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M670.631805158617,202.5778720793 L665.5991279207001,197.610805158617 L670.5661948413831,192.5781279207 L675.5988720793,197.54519484138308 L670.631805158617,202.5778720793 "/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="ScaleBar_1">
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_1">
+                <g fill="#969696" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,795,359)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="-71.7597" y="0" width="71.7597" height="5"/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_2">
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsTextItem_2">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#c8c8c8" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,743.62,338)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                        <text fill="#c8c8c8" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="11" font-weight="400" font-style="normal">2 um</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+            </g>
+        </g>
+        <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_2">
+            <g fill="none" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal">
+                <rect vector-effect="non-scaling-stroke" x="0" y="0" width="835" height="399"/>
+            </g>
+        </g>
+    </g>
+</g>
+
+</svg>

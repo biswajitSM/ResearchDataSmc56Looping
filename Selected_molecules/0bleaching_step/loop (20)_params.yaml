@@ -1,0 +1,45 @@
+MultiPeak:
+  DNAcontourlength: 16.0
+  DNAlength: 48.5
+  DNApuncta: 9
+  filterlen: 30
+  force: false
+  link_col1col2: false
+  loop_correction: false
+  max_frame_diff: 10
+  max_pix_diff: 10
+  maxwidth: 20
+  memory: 10
+  min_coloc_diff: 10
+  minwidth: 1
+  preview: true
+  prominence: 0.58
+  searchrange: 8
+  smol_preview: 30
+  smol_prominence: 0.54
+  smoothlength: 7
+Pixel Size: 115
+ROI width: 11 pixels
+Region Errbar:
+- 1.0
+- 75.94888378455911
+dna ends:
+- 2.3404675814662346
+- 69.82212592469133
+filepath: //cifs1.bpcentral.biophys.mpg.de/msdata/kimlab/Eugene/20220310/20220310_Nse4SNAPAlexa647_600mV_5nM_imgs_6_analysis/loop
+  (20).tif
+folderpath: //cifs1.bpcentral.biophys.mpg.de/msdata/kimlab/Eugene/20220310/20220310_Nse4SNAPAlexa647_600mV_5nM_imgs_6_analysis
+region3_Loop:
+- 832.2481928122343
+- 1407.4713610163221
+region3_noLoop:
+- 474.3730978033069
+- 607.4361110852375
+roi1 state:
+  angle: 264.45556934106764
+  position:
+  - 22.65862371460676
+  - 88.66621925310811
+  size:
+  - 77.98414162388536
+  - 11.0
