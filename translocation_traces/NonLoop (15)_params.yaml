@@ -1,0 +1,45 @@
+MultiPeak:
+  DNAcontourlength: 16.0
+  DNAlength: 48.5
+  DNApuncta: 9
+  filterlen: 30
+  force: false
+  link_col1col2: false
+  loop_correction: false
+  max_frame_diff: 10
+  max_pix_diff: 10
+  maxwidth: 20
+  memory: 10
+  min_coloc_diff: 10
+  minwidth: 1
+  preview: true
+  prominence: 0.2
+  searchrange: 8
+  smol_preview: 30
+  smol_prominence: 0.56
+  smoothlength: 7
+Pixel Size: 115
+ROI width: 11 pixels
+Region Errbar:
+- 1
+- 82
+dna ends:
+- 0.5414842443198307
+- 80.20897246484785
+filepath: C:/Users/bipradha/Desktop/data/20220310_Nse4SNAPAlexa647_600mV_5nM_imgs_6_NonLoops_analysis/NonLoop
+  (15).tif
+folderpath: C:/Users/bipradha/Desktop/data/20220310_Nse4SNAPAlexa647_600mV_5nM_imgs_6_NonLoops_analysis
+region3_Loop:
+- 3585.8687807282113
+- 3991.0833521699205
+region3_noLoop:
+- 3095.9547153661497
+- 3358.228183934355
+roi1 state:
+  angle: -12865.173444739463
+  position:
+  - 25.21623219950764
+  - 8.13722978799027
+  size:
+  - 82.48010724146164
+  - 11.0
